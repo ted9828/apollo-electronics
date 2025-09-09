@@ -1,0 +1,19 @@
+# OS / Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Build / temp
+build/
+dist/
+out/
+
+# KiCad
+*.kicad_prl
+*.kicad_pro
+*-backups/
+*.step
+*.stp
+*.3dshapes/*
